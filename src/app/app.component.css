@@ -1,0 +1,15 @@
+.pending{
+    font-size: 20px;
+    color: gray;
+}
+.correct{
+    font-size: 18px;
+    color: green;
+    font-weight: bold;
+    
+}
+.incorrect{
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
